@@ -1,5 +1,4 @@
 class ResultPrinter
-
   # метод конструктор
   def initialize
     @status_image = []
